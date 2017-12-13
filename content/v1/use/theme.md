@@ -22,7 +22,7 @@ You can set the theme you want with the `theme` key in the config file:
 
 Mozaïk comes with 6 themes:
 
-- bordeau
+- bordeaux
 - light-grey
 - light-yellow
 - night-blue

@@ -95,8 +95,8 @@ params:
     - name:       night-blue
       screenshot: night-blue.png
 
-    - name:       bordeau
-      screenshot: bordeau.png
+    - name:       bordeaux
+      screenshot: bordeaux.png
 
     - name:       light-grey
       screenshot: light-grey.png
